@@ -10,6 +10,7 @@
 .idea/
 task.pdf
 target
+.*.ini
 
 ### Java ###
 # Compiled class file
